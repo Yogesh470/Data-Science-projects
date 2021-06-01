@@ -11,3 +11,6 @@ crossbell notebook - Janatahack : Crosssell predication hackathon at Analytics V
         
 sentiment_analysis notebook - Fake News Content Detection hackathon at Machine hack
         scores 13 rank out of 255 particitpants
+        
+hacker notebook -- 20/2100+ rank        
+        
